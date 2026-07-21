@@ -9,7 +9,7 @@ Cloud & Platform Engineer · DevOps · SRE — Berlin, Germany
 9+ years building and operating cloud infrastructure, CI/CD, and observability
 systems in production. Most recently led cloud architecture for a global OTT
 platform (0 → 9M+ users in 90 days) and spent four years on platform
-reliability at PayPay, Japan's largest fintech (60M+ users).
+reliability for a leading fintech platform in Japan (60M+ users).
 
 Currently a full-time MSc student in Data Science, AI & Digital Business at
 GISMA University of Applied Sciences, Berlin (2026–2027).
@@ -17,12 +17,12 @@ GISMA University of Applied Sciences, Berlin (2026–2027).
 ## Experience
 
 **Technical Lead, Cloud & Platform Engineering** — Robosoft Technologies
-(client: The Chosen / Come and See Foundation) · Oct 2025 – Apr 2026
+(client: global OTT streaming platform) · Oct 2025 – Apr 2026
 Architected and shipped a global streaming platform on AWS in 90 days.
 Terraform across dev/staging/prod, GitHub Actions CI/CD, 8K+ req/s at peak.
 
 **SWE → Senior SWE → Technical Lead, Platform Reliability** — Robosoft
-Technologies (client: PayPay Corporation, Japan) · Aug 2021 – Sep 2025
+Technologies (client: leading fintech platform, Japan) · Aug 2021 – Sep 2025
 Led a 5-engineer reliability team for a 60M-user fintech platform. Owned
 observability (New Relic, Grafana, VictoriaMetrics), on-call and incident
 response process, and a Kafka-based notification system at ~20K msgs/day.
