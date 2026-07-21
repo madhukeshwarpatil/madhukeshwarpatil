@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/📍_Berlin,_Germany-374151?style=flat-square" />
-  <img src="https://img.shields.io/badge/🟢_Open_to_Work-16A34A?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎓_Full--Time_Student-2563EB?style=flat-square" />
 </p>
 
 <p align="center">
@@ -24,9 +24,9 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently leading **Cloud & Platform Engineering** for a global OTT streaming platform — scaled from **0 to 9M+ users in 90 days**
+- 🎓 Currently a **full-time student**, pursuing an **MSc Data Science, AI & Digital Business** at GISMA University of Applied Sciences, Berlin (2026–2027)
+- 🚀 Most recently led **Cloud & Platform Engineering** for a global OTT streaming platform — scaled from **0 to 9M+ users in 90 days**
 - 🏢 Spent **4 years** at **PayPay Corporation** (Japan's largest fintech, 60M+ users), progressing from Software Engineer → Technical Lead
-- 🎓 Studying **MSc Data Science, AI & Digital Business** at GISMA University of Applied Sciences, Berlin (2026–2027)
 - 🛠️ 9+ years building and running cloud infrastructure, CI/CD pipelines, and observability stacks at scale
 - 🌱 Learning German 🇩🇪 and deepening my AI/ML fundamentals
 - 💬 Ask me about AWS, Terraform, SRE practices, incident response, or Kafka-based systems
@@ -74,7 +74,10 @@
 ### 💼 Experience Timeline
 
 ```text
-2025 ─┬─ Technical Lead, Cloud & Platform Engineering
+Now  ─┬─ MSc Data Science, AI & Digital Business (Full-Time)
+      │  GISMA University of Applied Sciences · Berlin
+      │
+2025 ─┼─ Technical Lead, Cloud & Platform Engineering
       │  Robosoft Technologies · Client: The Chosen (OTT)
       │  ↳ 0 → 9M+ users · 20M+ sessions · 8K+ req/s · 90 days to launch
       │
